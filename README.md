@@ -13,7 +13,7 @@ Hi! I'm Mobile Application Developer, with development experience:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feggy&theme=transparent&show_icons=true)
 
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=feggy&layout=compact&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=feggy&layout=compact&theme=transparent)
 
 
 # Find Me On
