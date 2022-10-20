@@ -11,9 +11,9 @@ Hi! I'm Mobile Application Developer, with development experience:
 
 # Github Performance Overall
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feggy&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feggy&theme=vue-dark&show_icons=true)
 
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=feggy&layout=compact&theme=transparent)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=feggy&layout=compact&theme=vue-dark)
 
 
 # Find Me On
