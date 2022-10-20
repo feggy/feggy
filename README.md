@@ -20,3 +20,5 @@ Hi! I'm Mobile Application Developer, with development experience:
 
 <a href="https://www.instagram.com/feggymuhammad" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/feggymuhammad" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
+<a href="https://www.figma.com/@feggymuhammad" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="Figma"></a>
+<a href="https://medium.com/@feggymuhammad" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="Medium"></a>
