@@ -9,13 +9,6 @@ Hi! I'm Mobile Application Developer, with development experience:
 - Point of Sale (POS)
 
 
-# Github Performance Overall
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=feggy&theme=vue-dark&show_icons=true)
-
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=feggy&layout=compact&theme=vue-dark)
-
-
 # Find Me On
 
 <a href="https://www.linkedin.com/in/feggymuhammad" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
